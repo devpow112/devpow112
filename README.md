@@ -11,6 +11,10 @@
 ![.NET] ![AWS] ![Azure] ![Google Cloud] ![Terraform] ![Git] ![Subversion]
 ![CMake] ![Docker] ![Angular] ![SQL] ![MySQL] ![PostgreSQL]
 
+## Statistics
+
+![Statistics Contibutions] ![Statistics Languages]
+
 <!-- external links -->
 [Profile Views]: https://komarev.com/ghpvc/?username=devpow112 "Profile Views"
 [C++]: https://img.shields.io/badge/-C++-FFF?&logo=c%2b%2b&logoColor=00599C "C++"
@@ -35,3 +39,5 @@
 [SQL]: https://img.shields.io/badge/-SQL-FFF?logo=Microsoft-SQL-Server&logoColor=CC2927 "SQL"
 [MySQL]: https://img.shields.io/badge/-MySQL-FFF?logo=MySQL "MySQL"
 [PostgreSQL]: https://img.shields.io/badge/-PostgreSQL-FFF?logo=PostgreSQL&logoColor=336791 "PostgreSQL"
+[Statistics Contibutions]: https://github-readme-stats.vercel.app/api?username=devpow112&hide_border=true&include_all_commits=true&count_private=true&line_height=20&custom_title=Contributions
+[Statistics Languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=devpow112&hide_border=true&layout=compact&langs_count=6
