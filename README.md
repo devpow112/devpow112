@@ -4,7 +4,7 @@
 
 ## Languages
 
-![C++] ![C#] ![JavaScript] ![TypeScript] ![Java] ![PHP] ![HTML] ![CSS]
+![C++] ![C#] ![JavaScript] ![TypeScript] ![Python] ![Java] ![PHP] ![HTML] ![CSS]
 ![Markdown]
 
 ## Technologies
@@ -21,6 +21,7 @@
 [C#]: https://img.shields.io/badge/-CSharp-FFF?&logo=c-sharp&logoColor=239120 "C#"
 [JavaScript]: https://img.shields.io/badge/-JavaScript-FFF?&logo=JavaScript "JavaScript" 
 [TypeScript]: https://img.shields.io/badge/-TypeScript-FFF?&logo=TypeScript "TypeScript"
+[Python]: https://img.shields.io/badge/-Python-FFF?&logo=Python "Python"
 [Java]: https://img.shields.io/badge/-Java-FFF?&logo=Java&logoColor=007396 "Java"
 [PHP]: https://img.shields.io/badge/-PHP-FFF?&logo=PHP "PHP"
 [HTML]: https://img.shields.io/badge/-HTML-FFF?&logo=HTML5 "HTML"
