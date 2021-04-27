@@ -16,7 +16,7 @@ always trying to learn new things and take on new challenges.
 ## Languages
 
 ![C] ![C++] ![C#] ![JavaScript] ![TypeScript] ![Python] ![Java] ![PHP] ![HTML]
-![CSS] ![PowerShell] ![Bash] ![Batch] ![Markdown]
+![CSS] ![PowerShell] ![Bash] ![Batch] ![Puppet] ![Markdown]
 
 ## Technologies
 
@@ -81,7 +81,8 @@ always trying to learn new things and take on new challenges.
 [Coveralls]: https://img.shields.io/badge/-Coveralls-3F5767?logo=Coveralls&logoColor=white "Coveralls"
 [Node.js]: https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white "Node.js"
 [npm]: https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white "npm"
-[Batch]: https://img.shields.io/badge/-Batch-4D4D4D?logo=Windows-Terminal&logoColor=white "npm"
+[Batch]: https://img.shields.io/badge/-Batch-4D4D4D?logo=Windows-Terminal&logoColor=white "Batch"
+[Puppet]: https://img.shields.io/badge/-Puppet-FFAE1A?logo=Puppet&logoColor=black "Puppet"
 [WNFramework]: https://github-readme-stats.vercel.app/api/pin/?username=WNProject&repo=WNFramework&show_owner=true&theme=github_dark&icon_color=8B949E&hide_border=true
 [Quantum Burst]: https://github-readme-stats.vercel.app/api/pin/?username=devpow112&repo=quantum-burst&show_owner=true&theme=github_dark&icon_color=8B949E&hide_border=true
 [Statistics Overview]: https://github-readme-stats.vercel.app/api?username=devpow112&hide_border=true&include_all_commits=true&count_private=true&line_height=20&custom_title=Overview&theme=github_dark
