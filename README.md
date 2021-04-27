@@ -19,10 +19,11 @@ always trying to learn new things and take on new challenges.
 ![CSS] ![PowerShell] ![Bash] ![Markdown]
 
 ## Technologies
+
 ![.NET] ![AWS] ![Azure] ![Google Cloud] ![Serverless] ![Terraform] ![Angular]
 ![Git] ![Subversion] ![Visual Studio Code] ![Visual Studio] ![XCode] ![Node.js]
-![npm] ![Docker] ![Coveralls] ![PostgreSQL] ![SQL] ![MySQL] ![GitHub Actions]
-![CircleCI] ![Travis CI] ![Jenkins] ![CMake] ![Vulkan] ![OpenGL] ![Windows]
+![npm] ![Docker] ![PostgreSQL] ![SQL] ![MySQL] ![GitHub Actions] ![CircleCI]
+![Travis CI] ![Jenkins] ![Coveralls]  ![CMake] ![Vulkan] ![OpenGL] ![Windows]
 ![Linux] ![Android] ![PlayStation 3] ![Xbox 360] ![Wii] ![Genesis]
 ![Unreal Engine] ![Unity]
 
