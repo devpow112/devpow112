@@ -9,8 +9,8 @@
 
 ## Technologies
 ![.NET] ![AWS] ![Azure] ![Google Cloud] ![Serverless] ![Terraform] ![Angular]
-![Git] ![Subversion] ![Visual Studio] ![Visual Studio Code] ![XCode] ![CMake]
-![Docker] ![SQL] ![MySQL] ![PostgreSQL] ![Vulkan] ![OpenGL] ![PlayStation 3]
+![Git] ![Subversion] ![Visual Studio Code] ![Visual Studio] ![XCode] ![CMake]
+![Docker] ![PostgreSQL] ![SQL] ![MySQL] ![Vulkan] ![OpenGL] ![PlayStation 3]
 ![Xbox 360] ![Wii] ![Windows] ![Linux] ![Android] ![Genesis]
 
 ## Statistics
