@@ -9,7 +9,8 @@
 
 ## Technologies
 ![.NET] ![AWS] ![Azure] ![Google Cloud] ![Terraform] ![Git] ![Subversion]
-![CMake] ![Docker] ![Angular] ![SQL] ![MySQL] ![PostgreSQL]
+![Visual Studio] ![Visual Studio Code] ![CMake] ![Docker] ![SQL] ![MySQL]
+![PostgreSQL] ![Angular]
 
 ## Statistics
 
@@ -34,11 +35,13 @@
 [Terraform]: https://img.shields.io/badge/-Terraform-623CE4?logo=Terraform&logoColor=white "Terraform"
 [Git]: https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white "Git"
 [Subversion]: https://img.shields.io/badge/-Subversion-809CC9?logo=Subversion&logoColor=white "Subversion"
+[Visual Studio]: https://img.shields.io/badge/-Visual%20Studio-512BD4?logo=Visual-Studio&logoColor=white "Visual Studio"
+[Visual Studio Code]: https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual-Studio-Code&logoColor=white "Visual Studio Code"
 [CMake]: https://img.shields.io/badge/-CMake-064F8C?logo=CMake&logoColor=white "CMake"
 [Docker]: https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white "Docker"
-[Angular]: https://img.shields.io/badge/-Angular-E23237?logo=angular&logoColor=white "Angular"
 [SQL]: https://img.shields.io/badge/-SQL-CC2927?logo=Microsoft-SQL-Server&logoColor=white "SQL"
 [MySQL]: https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white "MySQL"
 [PostgreSQL]: https://img.shields.io/badge/-PostgreSQL-336791?logo=PostgreSQL&logoColor=white "PostgreSQL"
+[Angular]: https://img.shields.io/badge/-Angular-E23237?logo=angular&logoColor=white "Angular"
 [Statistics Overview]: https://github-readme-stats.vercel.app/api?username=devpow112&hide_border=true&include_all_commits=true&count_private=true&line_height=20&custom_title=Overview
 [Statistics Languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=devpow112&hide_border=true&layout=compact&langs_count=6
