@@ -16,7 +16,7 @@ always trying to learn new things and take on new challenges.
 ## Languages
 
 ![C] ![C++] ![C#] ![JavaScript] ![TypeScript] ![Python] ![Java] ![PHP] ![HTML]
-![CSS] ![PowerShell] ![Bash] ![Markdown]
+![CSS] ![PowerShell] ![Bash] ![Batch] ![Markdown]
 
 ## Technologies
 
@@ -36,7 +36,7 @@ always trying to learn new things and take on new challenges.
 [C]: https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white "C"
 [C++]: https://img.shields.io/badge/-C++-00599C?logo=C%2b%2b&logoColor=white "C++"
 [C#]: https://img.shields.io/badge/-C%23-239120?logo=C-Sharp&logoColor=white "C#"
-[JavaScript]: https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black "JavaScript" 
+[JavaScript]: https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black "JavaScript"
 [TypeScript]: https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white "TypeScript"
 [Python]: https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white "Python"
 [Java]: https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white "Java"
@@ -70,7 +70,7 @@ always trying to learn new things and take on new challenges.
 [Windows]: https://img.shields.io/badge/-Windows-0078D6?logo=Windows&logoColor=white "Windows"
 [Linux]: https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black "Linux"
 [Genesis]: https://img.shields.io/badge/-Genesis-0089CF?logo=Sega&logoColor=white "Genesis"
-[OpenGL]: https://img.shields.io/badge/-OpenGL-5586A4?logo=OpenGL&logoColor=white "OpenGL" 
+[OpenGL]: https://img.shields.io/badge/-OpenGL-5586A4?logo=OpenGL&logoColor=white "OpenGL"
 [Serverless]: https://img.shields.io/badge/-Serverless-FD5750?logo=Serverless&logoColor=white "Serverless"
 [Unreal Engine]: https://img.shields.io/badge/-Unreal%20Engine-313131?logo=Unreal-Engine&logoColor=white "Unreal Engine"
 [Unity]: https://img.shields.io/badge/-Unity-000000?logo=Unity&logoColor=white "Unity"
@@ -81,6 +81,7 @@ always trying to learn new things and take on new challenges.
 [Coveralls]: https://img.shields.io/badge/-Coveralls-3F5767?logo=Coveralls&logoColor=white "Coveralls"
 [Node.js]: https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white "Node.js"
 [npm]: https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white "npm"
+[Batch]: https://img.shields.io/badge/-Batch-4D4D4D?logo=Windows-Terminal&logoColor=white "npm"
 [WNFramework]: https://github-readme-stats.vercel.app/api/pin/?username=WNProject&repo=WNFramework&show_owner=true&theme=github_dark&icon_color=8B949E&hide_border=true
 [Quantum Burst]: https://github-readme-stats.vercel.app/api/pin/?username=devpow112&repo=quantum-burst&show_owner=true&theme=github_dark&icon_color=8B949E&hide_border=true
 [Statistics Overview]: https://github-readme-stats.vercel.app/api?username=devpow112&hide_border=true&include_all_commits=true&count_private=true&line_height=20&custom_title=Overview&theme=github_dark
