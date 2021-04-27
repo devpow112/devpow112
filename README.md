@@ -8,10 +8,10 @@
 ![CSS] ![PowerShell] ![Bash] ![Markdown]
 
 ## Technologies
-![.NET] ![AWS] ![Azure] ![Google Cloud] ![Terraform] ![Angular]  ![Git]
-![Subversion] ![Visual Studio] ![Visual Studio Code] ![XCode] ![CMake] ![Docker]
-![SQL] ![MySQL] ![PostgreSQL] ![Vulkan] ![OpenGL] ![PlayStation 3] ![Xbox 360]
-![Wii] ![Windows] ![Linux] ![Android] ![Genesis]
+![.NET] ![AWS] ![Azure] ![Google Cloud] ![Serverless] ![Terraform] ![Angular]
+![Git] ![Subversion] ![Visual Studio] ![Visual Studio Code] ![XCode] ![CMake]
+![Docker] ![SQL] ![MySQL] ![PostgreSQL] ![Vulkan] ![OpenGL] ![PlayStation 3]
+![Xbox 360] ![Wii] ![Windows] ![Linux] ![Android] ![Genesis]
 
 ## Statistics
 
@@ -56,6 +56,7 @@
 [Windows]: https://img.shields.io/badge/-Windows-0078D6?logo=Windows&logoColor=white "Windows"
 [Linux]: https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black "Linux"
 [Genesis]: https://img.shields.io/badge/-Genesis-0089CF?logo=Sega&logoColor=white "Genesis"
-[OpenGL]: https://img.shields.io/badge/-OpenGL-5586A4?logo=OpenGL&logoColor=white "OpenGL"
+[OpenGL]: https://img.shields.io/badge/-OpenGL-5586A4?logo=OpenGL&logoColor=white "OpenGL" 
+[Serverless]: https://img.shields.io/badge/-Serverless-FD5750?logo=Serverless&logoColor=white "Serverless" 
 [Statistics Overview]: https://github-readme-stats.vercel.app/api?username=devpow112&hide_border=true&include_all_commits=true&count_private=true&line_height=20&custom_title=Overview&theme=github_dark
 [Statistics Languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=devpow112&hide_border=true&layout=compact&langs_count=6&theme=github_dark
