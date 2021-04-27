@@ -8,9 +8,9 @@
 ![Markdown]
 
 ## Technologies
-![.NET] ![AWS] ![Azure] ![Google Cloud] ![Terraform] ![Git] ![Subversion]
-![Visual Studio] ![Visual Studio Code] ![CMake] ![Docker] ![SQL] ![MySQL]
-![PostgreSQL] ![Angular]
+![.NET] ![AWS] ![Azure] ![Google Cloud] ![Terraform] ![Angular]  ![Git]
+![Subversion] ![Visual Studio] ![Visual Studio Code] ![CMake] ![Docker] ![SQL]
+![MySQL] ![PostgreSQL] ![Vulkan]
 
 ## Statistics
 
@@ -43,5 +43,6 @@
 [MySQL]: https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white "MySQL"
 [PostgreSQL]: https://img.shields.io/badge/-PostgreSQL-336791?logo=PostgreSQL&logoColor=white "PostgreSQL"
 [Angular]: https://img.shields.io/badge/-Angular-E23237?logo=angular&logoColor=white "Angular"
+[Vulkan]: https://img.shields.io/badge/-Vulkan-AC162C?logo=vulkan&logoColor=white "Vulkan"
 [Statistics Overview]: https://github-readme-stats.vercel.app/api?username=devpow112&hide_border=true&include_all_commits=true&count_private=true&line_height=20&custom_title=Overview
 [Statistics Languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=devpow112&hide_border=true&layout=compact&langs_count=6
