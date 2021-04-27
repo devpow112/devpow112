@@ -54,5 +54,5 @@
 [Linux]: https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black "Linux"
 [Genesis]: https://img.shields.io/badge/-Genesis-0089CF?logo=sega&logoColor=white "Genesis"
 [OpenGL]: https://img.shields.io/badge/-OpenGL-5586A4?logo=opengl&logoColor=white "OpenGL"
-[Statistics Overview]: https://github-readme-stats.vercel.app/api?username=devpow112&hide_border=true&include_all_commits=true&count_private=true&line_height=20&custom_title=Overview
-[Statistics Languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=devpow112&hide_border=true&layout=compact&langs_count=6
+[Statistics Overview]: https://github-readme-stats.vercel.app/api?username=devpow112&hide_border=true&include_all_commits=true&count_private=true&line_height=20&custom_title=Overview&theme=github_dark
+[Statistics Languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=devpow112&hide_border=true&layout=compact&langs_count=6&theme=github_dark
