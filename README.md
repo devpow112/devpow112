@@ -4,8 +4,8 @@
 
 ## Current Projects
 
-![WNFramework]
-![Quantum Burst]
+[![WNFramework]](https://github.com/WNProject/WNFramework)
+[![Quantum Burst]](https://github.com/devpow112/quantum-burst)
 
 ## Languages
 
