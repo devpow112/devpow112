@@ -23,7 +23,7 @@ always trying to learn new things and take on new challenges.
 ![Git] ![Subversion] ![Visual Studio Code] ![Visual Studio] ![XCode] ![CMake]
 ![Docker] ![PostgreSQL] ![SQL] ![MySQL] ![Vulkan] ![OpenGL] ![PlayStation 3]
 ![Xbox 360] ![Wii] ![Windows] ![Linux] ![Android] ![Genesis] ![Unreal Engine]
-![Unity]
+![Unity] ![GitHub Actions] ![CircleCI] ![Travis CI] ![Jenkins] ![Coveralls]
 
 ## Statistics
 
@@ -72,6 +72,11 @@ always trying to learn new things and take on new challenges.
 [Serverless]: https://img.shields.io/badge/-Serverless-FD5750?logo=Serverless&logoColor=white "Serverless"
 [Unreal Engine]: https://img.shields.io/badge/-Unreal%20Engine-313131?logo=Unreal-Engine&logoColor=white "Unreal Engine"
 [Unity]: https://img.shields.io/badge/-Unity-000000?logo=Unity&logoColor=white "Unity"
+[GitHub Actions]: https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=GitHub-Actions&logoColor=white "GitHub Actions"
+[CircleCI]: https://img.shields.io/badge/-CircleCI-343434?logo=CircleCI&logoColor=white "CircleCI"
+[Travis CI]: https://img.shields.io/badge/-Travis%20CI-3EAAAF?logo=Travis-CI&logoColor=white "Travis CI"
+[Jenkins]: https://img.shields.io/badge/-Jenkins-D24939?logo=Jenkins&logoColor=white "Jenkins"
+[Coveralls]: https://img.shields.io/badge/-Coveralls-3F5767?logo=Coveralls&logoColor=white "Coveralls"
 [WNFramework]: https://github-readme-stats.vercel.app/api/pin/?username=WNProject&repo=WNFramework&show_owner=true&theme=github_dark&icon_color=8B949E&hide_border=true
 [Quantum Burst]: https://github-readme-stats.vercel.app/api/pin/?username=devpow112&repo=quantum-burst&show_owner=true&theme=github_dark&icon_color=8B949E&hide_border=true
 [Statistics Overview]: https://github-readme-stats.vercel.app/api?username=devpow112&hide_border=true&include_all_commits=true&count_private=true&line_height=20&custom_title=Overview&theme=github_dark
