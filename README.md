@@ -20,10 +20,11 @@ always trying to learn new things and take on new challenges.
 
 ## Technologies
 ![.NET] ![AWS] ![Azure] ![Google Cloud] ![Serverless] ![Terraform] ![Angular]
-![Git] ![Subversion] ![Visual Studio Code] ![Visual Studio] ![XCode] ![CMake]
-![Docker] ![PostgreSQL] ![SQL] ![MySQL] ![Vulkan] ![OpenGL] ![PlayStation 3]
-![Xbox 360] ![Wii] ![Windows] ![Linux] ![Android] ![Genesis] ![Unreal Engine]
-![Unity] ![GitHub Actions] ![CircleCI] ![Travis CI] ![Jenkins] ![Coveralls]
+![Git] ![Subversion] ![Visual Studio Code] ![Visual Studio] ![XCode] ![Node.js]
+![npm] ![Docker] ![Coveralls] ![PostgreSQL] ![SQL] ![MySQL] ![GitHub Actions]
+![CircleCI] ![Travis CI] ![Jenkins] ![CMake] ![Vulkan] ![OpenGL] ![Windows]
+![Linux] ![Android] ![PlayStation 3] ![Xbox 360] ![Wii] ![Genesis]
+![Unreal Engine] ![Unity]
 
 ## Statistics
 
@@ -77,6 +78,8 @@ always trying to learn new things and take on new challenges.
 [Travis CI]: https://img.shields.io/badge/-Travis%20CI-3EAAAF?logo=Travis-CI&logoColor=white "Travis CI"
 [Jenkins]: https://img.shields.io/badge/-Jenkins-D24939?logo=Jenkins&logoColor=white "Jenkins"
 [Coveralls]: https://img.shields.io/badge/-Coveralls-3F5767?logo=Coveralls&logoColor=white "Coveralls"
+[Node.js]: https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white "Node.js"
+[npm]: https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white "npm"
 [WNFramework]: https://github-readme-stats.vercel.app/api/pin/?username=WNProject&repo=WNFramework&show_owner=true&theme=github_dark&icon_color=8B949E&hide_border=true
 [Quantum Burst]: https://github-readme-stats.vercel.app/api/pin/?username=devpow112&repo=quantum-burst&show_owner=true&theme=github_dark&icon_color=8B949E&hide_border=true
 [Statistics Overview]: https://github-readme-stats.vercel.app/api?username=devpow112&hide_border=true&include_all_commits=true&count_private=true&line_height=20&custom_title=Overview&theme=github_dark
