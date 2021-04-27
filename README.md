@@ -32,7 +32,7 @@ always trying to learn new things and take on new challenges.
 ![Statistics Overview] ![Statistics Languages]
 
 <!-- external links -->
-[Profile Views]: https://komarev.com/ghpvc/?username=devpow112 "Profile Views"
+[Profile Views]: https://komarev.com/ghpvc/?username=devpow112&label=Profile%20Views "Profile Views"
 [C]: https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white "C"
 [C++]: https://img.shields.io/badge/-C++-00599C?logo=C%2b%2b&logoColor=white "C++"
 [C#]: https://img.shields.io/badge/-C%23-239120?logo=C-Sharp&logoColor=white "C#"
