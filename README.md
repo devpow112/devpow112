@@ -22,10 +22,10 @@ always trying to learn new things and take on new challenges.
 
 ![.NET] ![AWS] ![Azure] ![Google Cloud] ![Serverless] ![Terraform] ![Angular]
 ![Polymer] ![React] ![Git] ![Subversion] ![GitHub] ![Visual Studio Code]
-![Visual Studio] ![XCode] ![Node.js] ![npm] ![Docker] ![PostgreSQL] ![SQL]
-![MySQL] ![Jenkins] ![GitHub Actions] ![CircleCI] ![Travis CI] ![Coveralls]
-![Bower] ![CMake] ![Vulkan] ![OpenGL] ![Windows] ![Linux] ![Android]
-![Unreal Engine] ![Unity] ![PlayStation 3] ![Xbox 360] ![Wii] ![Genesis]
+![Visual Studio] ![XCode] ![Node.js] ![Docker] ![PostgreSQL] ![SQL] ![MySQL]
+![Jenkins] ![GitHub Actions] ![CircleCI] ![Travis CI] ![Coveralls] ![Bower]
+![CMake] ![Vulkan] ![OpenGL] ![Windows] ![Linux] ![Android] ![Unreal Engine]
+![Unity] ![PlayStation 3] ![Xbox 360] ![Wii] ![Genesis]
 
 ## Statistics
 
@@ -80,7 +80,6 @@ always trying to learn new things and take on new challenges.
 [Jenkins]: https://img.shields.io/badge/-Jenkins-D24939?logo=Jenkins&logoColor=white "Jenkins"
 [Coveralls]: https://img.shields.io/badge/-Coveralls-3F5767?logo=Coveralls&logoColor=white "Coveralls"
 [Node.js]: https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white "Node.js"
-[npm]: https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white "npm"
 [Batch]: https://img.shields.io/badge/-Batch-4D4D4D?logo=Windows-Terminal&logoColor=white "Batch"
 [Puppet]: https://img.shields.io/badge/-Puppet-FFAE1A?logo=Puppet&logoColor=black "Puppet"
 [Polymer]: https://img.shields.io/badge/-Polymer-FF4470?logo=Polymer-Project&logoColor=white "Polymer"
