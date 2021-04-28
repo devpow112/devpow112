@@ -92,5 +92,5 @@ always trying to learn new things and take on new challenges.
 [Twitter Link]: https://twitter.com/devpow112 "Twitter"
 [WNFramework]: https://github-readme-stats.vercel.app/api/pin/?username=WNProject&repo=WNFramework&show_owner=true&theme=github_dark&icon_color=8B949E&hide_border=true
 [Quantum Burst]: https://github-readme-stats.vercel.app/api/pin/?username=devpow112&repo=quantum-burst&show_owner=true&theme=github_dark&icon_color=8B949E&hide_border=true
-[Statistics Overview]: https://github-readme-stats.vercel.app/api?username=devpow112&hide_border=true&include_all_commits=true&count_private=true&line_height=20&custom_title=Overview&theme=github_dark
-[Statistics Languages]: https://github-readme-stats.vercel.app/api/top-langs?username=devpow112&hide_border=true&layout=compact&langs_count=6&theme=github_dark
+[Statistics Overview]: https://github-readme-stats.vercel.app/api?username=devpow112&hide_border=true&include_all_commits=true&count_private=true&line_height=20&custom_title=Overview&theme=github_dark&title_color=C3D1D9
+[Statistics Languages]: https://github-readme-stats.vercel.app/api/top-langs?username=devpow112&hide_border=true&layout=compact&langs_count=6&theme=github_dark&title_color=C3D1D9
