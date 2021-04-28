@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-![Profile Views]
+![Profile Views] ![LinkedIn] ![Twitter]
 
 I am a full-time senior software developer currently working in the educational
 technologies sector. I've been working in the tech industry, in one form or the
@@ -15,8 +15,8 @@ always trying to learn new things and take on new challenges.
 
 ## Languages
 
-![C] ![C++] ![C#] ![JavaScript] ![TypeScript] ![Python] ![Java] ![PHP] ![HTML]
-![CSS] ![PowerShell] ![Bash] ![Batch] ![Puppet] ![Markdown]
+![C] ![C++] ![C#] ![JavaScript] ![TypeScript] ![HTML] ![CSS] ![Python] ![Java]
+![PHP] ![PowerShell] ![Bash] ![Batch] ![Puppet] ![Markdown]
 
 ## Technologies
 
@@ -25,7 +25,7 @@ always trying to learn new things and take on new challenges.
 ![Visual Studio] ![XCode] ![Node.js] ![npm] ![Docker] ![PostgreSQL] ![SQL]
 ![MySQL] ![Jenkins] ![GitHub Actions] ![CircleCI] ![Travis CI] ![Coveralls]
 ![Bower] ![CMake] ![Vulkan] ![OpenGL] ![Windows] ![Linux] ![Android]
-![Unreal Engine] ![Unity] ![PlayStation 3] ![Xbox 360] ![Wii] ![Genesis] 
+![Unreal Engine] ![Unity] ![PlayStation 3] ![Xbox 360] ![Wii] ![Genesis]
 
 ## Statistics
 
@@ -87,6 +87,8 @@ always trying to learn new things and take on new challenges.
 [React]: https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=black "React"
 [Bower]: https://img.shields.io/badge/-Bower-EF5734?logo=Bower&logoColor=white "Bower"
 [GitHub]: https://img.shields.io/badge/-GitHub-000000?logo=GitHub&logoColor=white "GitHub"
+[LinkedIn]: https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white "LinkedIn"
+[Twitter]: https://img.shields.io/badge/-Twitter-1DA1F2?logo=Twitter&logoColor=white "Twitter"
 [WNFramework]: https://github-readme-stats.vercel.app/api/pin/?username=WNProject&repo=WNFramework&show_owner=true&theme=github_dark&icon_color=8B949E&hide_border=true
 [Quantum Burst]: https://github-readme-stats.vercel.app/api/pin/?username=devpow112&repo=quantum-burst&show_owner=true&theme=github_dark&icon_color=8B949E&hide_border=true
 [Statistics Overview]: https://github-readme-stats.vercel.app/api?username=devpow112&hide_border=true&include_all_commits=true&count_private=true&line_height=20&custom_title=Overview&theme=github_dark
