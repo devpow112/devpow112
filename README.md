@@ -4,7 +4,7 @@
 
 I am a full-time senior software developer currently working in the educational
 technologies sector. I've been working in the tech industry, in one form or the
-other, for over 10 years now. I've worked on video games, anti-virus software
+other, for over 14 years now. I've worked on video games, anti-virus software
 and most recently educational software. I enjoy tinkering in the my spare time,
 always trying to learn new things and take on new challenges.
 
