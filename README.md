@@ -21,11 +21,11 @@ always trying to learn new things and take on new challenges.
 ## Technologies
 
 ![.NET] ![AWS] ![Azure] ![Google Cloud] ![Serverless] ![Terraform] ![Angular]
-![Polymer] ![React] ![Git] ![Subversion] ![Visual Studio Code] ![Visual Studio]
-![XCode] ![Node.js] ![npm] ![Docker] ![PostgreSQL] ![SQL] ![MySQL] ![Jenkins]
-![GitHub Actions] ![CircleCI] ![Travis CI] ![Coveralls] ![Bower] ![CMake]
-![Vulkan] ![OpenGL] ![Windows] ![Linux] ![Android] ![Unreal Engine] ![Unity]
-![PlayStation 3] ![Xbox 360] ![Wii] ![Genesis]
+![Polymer] ![React] ![Git] ![Subversion] ![GitHub] ![Visual Studio Code]
+![Visual Studio] ![XCode] ![Node.js] ![npm] ![Docker] ![PostgreSQL] ![SQL]
+![MySQL] ![Jenkins] ![GitHub Actions] ![CircleCI] ![Travis CI] ![Coveralls]
+![Bower] ![CMake] ![Vulkan] ![OpenGL] ![Windows] ![Linux] ![Android]
+![Unreal Engine] ![Unity] ![PlayStation 3] ![Xbox 360] ![Wii] ![Genesis] 
 
 ## Statistics
 
@@ -86,6 +86,7 @@ always trying to learn new things and take on new challenges.
 [Polymer]: https://img.shields.io/badge/-Polymer-FF4470?logo=Polymer-Project&logoColor=white "Polymer"
 [React]: https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=black "React"
 [Bower]: https://img.shields.io/badge/-Bower-EF5734?logo=Bower&logoColor=white "Bower"
+[GitHub]: https://img.shields.io/badge/-GitHub-000000?logo=GitHub&logoColor=white "GitHub"
 [WNFramework]: https://github-readme-stats.vercel.app/api/pin/?username=WNProject&repo=WNFramework&show_owner=true&theme=github_dark&icon_color=8B949E&hide_border=true
 [Quantum Burst]: https://github-readme-stats.vercel.app/api/pin/?username=devpow112&repo=quantum-burst&show_owner=true&theme=github_dark&icon_color=8B949E&hide_border=true
 [Statistics Overview]: https://github-readme-stats.vercel.app/api?username=devpow112&hide_border=true&include_all_commits=true&count_private=true&line_height=20&custom_title=Overview&theme=github_dark
