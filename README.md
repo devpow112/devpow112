@@ -1,6 +1,7 @@
 # Hi there! 👋
 
-![Profile Views] [![LinkedIn]][LinkedIn Link] [![Twitter]][Twitter Link]
+![Profile Views] [![LinkedIn]][LinkedIn Link] [![YouTube]][YouTube Link]
+[![Twitter]][Twitter Link] [![Facebook]][Facebook Link]
 
 I am a full-time senior software developer currently working in the educational
 technologies sector. I've been working in the tech industry, in one form or the
@@ -87,9 +88,13 @@ always trying to learn new things and take on new challenges.
 [Bower]: https://img.shields.io/badge/-Bower-EF5734?logo=Bower&logoColor=white "Bower"
 [GitHub]: https://img.shields.io/badge/-GitHub-000000?logo=GitHub&logoColor=white "GitHub"
 [LinkedIn]: https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white "LinkedIn"
+[YouTube]: https://img.shields.io/badge/-YouTube-FF0000?logo=YouTube&logoColor=white "YouTube"
 [Twitter]: https://img.shields.io/badge/-Twitter-1DA1F2?logo=Twitter&logoColor=white "Twitter"
+[Facebook]: https://img.shields.io/badge/-Facebook-1877F2?logo=Facebook&logoColor=white "Facebook"
 [LinkedIn Link]: https://linkedin.com/in/devpow112 "LinkedIn"
+[YouTube Link]: https://youtube.com/devpow112 "YouTube"
 [Twitter Link]: https://twitter.com/devpow112 "Twitter"
+[Facebook Link]: https://facebook.com/devpow112 "Facebook"
 [WNFramework]: https://github-readme-stats.vercel.app/api/pin/?username=WNProject&repo=WNFramework&show_owner=true&theme=github_dark&icon_color=8B949E&hide_border=true
 [Quantum Burst]: https://github-readme-stats.vercel.app/api/pin/?username=devpow112&repo=quantum-burst&show_owner=true&theme=github_dark&icon_color=8B949E&hide_border=true
 [Statistics Overview]: https://github-readme-stats.vercel.app/api?username=devpow112&hide_border=true&include_all_commits=true&count_private=true&line_height=20&custom_title=Overview&theme=github_dark
