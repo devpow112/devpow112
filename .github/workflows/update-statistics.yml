@@ -12,6 +12,10 @@ jobs:
     name: Update Statistics
     runs-on: ubuntu-latest
     timeout-minutes: 5
+    env:
+      BASE_URL: https://github-readme-stats.vercel.app/api
+      HIDE_BORDER: true
+      THEME: github_dark
     steps:
       - name: Checkout
         uses: actions/checkout@v2.3.4
@@ -19,23 +23,21 @@ jobs:
           persist-credentials: false
       - name: Update statistics (overview)
         run: |
-          URL=https://github-readme-stats.vercel.app/api
-          URL="$URL?username=devpow112"
-          URL="$URL&hide_border=true"
+          URL="$BASE_URL?username=${{github.repository_owner}}"
+          URL="$URL&hide_border=$HIDE_BORDER"
           URL="$URL&include_all_commits=true"
           URL="$URL&count_private=true"
           URL="$URL&line_height=20"
           URL="$URL&custom_title=Overview"
-          URL="$URL&theme=github_dark"
+          URL="$URL&theme=$THEME"
           curl -sSfo images/statistics-overview.svg "$URL"
       - name: Update statistics (languages)
         run: |
-          URL=https://github-readme-stats.vercel.app/api/top-langs
-          URL="$URL?username=devpow112"
-          URL="$URL&hide_border=true"
+          URL="$BASE_URL/top-langs?username=${{github.repository_owner}}"
+          URL="$URL&hide_border=$HIDE_BORDER"
           URL="$URL&layout=compact"
           URL="$URL&langs_count=6"
-          URL="$URL&theme=github_dark"
+          URL="$URL&theme=$THEME"
           curl -sSfo images/statistics-languages.svg "$URL"
       - name: Check for changes
         id: changes
