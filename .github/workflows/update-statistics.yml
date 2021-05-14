@@ -1,0 +1,49 @@
+name: Update Statistics
+on:
+  push:
+    branches: main
+    paths: .github/workflows/update-statistics.yml
+  schedule:
+    - cron: '0 15 * * *'
+permissions:
+  contents: write
+jobs:
+  update-license:
+    name: Update Statistics
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2.3.4
+        with:
+          persist-credentials: false
+      - name: Update statistics
+        run: |
+          URL=https://github-readme-stats.vercel.app/api
+          URL="$URL?username=devpow112"
+          URL="$URL&hide_border=true"
+          URL="$URL&include_all_commits=true"
+          URL="$URL&count_private=true"
+          URL="$URL&line_height=20"
+          URL="$URL&custom_title=Overview"
+          URL="$URL&theme=github_dark"
+          curl -sSfo images/statistics-overview.svg "$URL"
+      - name: Check for changes
+        id: changes
+        run: |
+          git diff --exit-code || echo '::set-output name=exist::true'
+      - name: Push commit
+        if: steps.changes.outputs.exist
+        run: |
+          git config user.name $COMMIT_USERNAME
+          git config user.email $COMMIT_EMAIL
+          git add -u
+          git commit -m "Update statistics"
+          CREDENTIALS="x-access-token:$GITHUB_TOKEN"
+          URL="https://$CREDENTIALS@github.com/${{github.repository}}.git"
+          git remote set-url origin $URL
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{secrets.UPDATE_STATISTICS_TOKEN}}
+          COMMIT_USERNAME: github-actions[bot]
+          COMMIT_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
