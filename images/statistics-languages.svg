@@ -84,7 +84,7 @@
             data-testid="lang-progress"
             x="0" 
             y="0"
-            width="238.40" 
+            width="237.95" 
             height="8"
             fill="#555555"
           />
@@ -92,9 +92,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="238.4" 
+            x="237.95" 
             y="0"
-            width="27.56" 
+            width="27.51" 
             height="8"
             fill="#f1e05a"
           />
@@ -102,9 +102,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="265.96" 
+            x="265.46" 
             y="0"
-            width="13.11" 
+            width="13.65" 
             height="8"
             fill="#384d54"
           />
@@ -112,9 +112,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="279.07" 
+            x="279.10999999999996" 
             y="0"
-            width="12.51" 
+            width="12.48" 
             height="8"
             fill="#3572A5"
           />
@@ -122,9 +122,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="291.58" 
+            x="291.59" 
             y="0"
-            width="16.89" 
+            width="16.88" 
             height="8"
             fill="#012456"
           />
@@ -143,35 +143,35 @@
     <g transform="translate(0, 25)">
       <circle cx="5" cy="6" r="5" fill="#555555" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C 79.47%
+        C 79.32%
       </text>
     </g>
   
     <g transform="translate(150, 25)">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 9.19%
+        JavaScript 9.17%
       </text>
     </g>
   
     <g transform="translate(0, 50)">
       <circle cx="5" cy="6" r="5" fill="#384d54" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Dockerfile 4.37%
+        Dockerfile 4.55%
       </text>
     </g>
   
     <g transform="translate(150, 50)">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 4.17%
+        Python 4.16%
       </text>
     </g>
   
     <g transform="translate(0, 75)">
       <circle cx="5" cy="6" r="5" fill="#012456" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        PowerShell 2.30%
+        PowerShell 2.29%
       </text>
     </g>
   
