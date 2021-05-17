@@ -84,7 +84,7 @@
             data-testid="lang-progress"
             x="0" 
             y="0"
-            width="237.95" 
+            width="237.93" 
             height="8"
             fill="#555555"
           />
@@ -92,9 +92,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="237.95" 
+            x="237.93" 
             y="0"
-            width="27.51" 
+            width="27.50" 
             height="8"
             fill="#f1e05a"
           />
@@ -102,9 +102,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="265.46" 
+            x="265.43" 
             y="0"
-            width="13.65" 
+            width="13.68" 
             height="8"
             fill="#384d54"
           />
@@ -112,7 +112,7 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="279.10999999999996" 
+            x="279.11" 
             y="0"
             width="12.48" 
             height="8"
@@ -122,7 +122,7 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="291.59" 
+            x="291.59000000000003" 
             y="0"
             width="16.88" 
             height="8"
@@ -132,9 +132,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="298.46999999999997" 
+            x="298.47" 
             y="0"
-            width="11.54" 
+            width="11.53" 
             height="8"
             fill="#e34c26"
           />
@@ -143,7 +143,7 @@
     <g transform="translate(0, 25)">
       <circle cx="5" cy="6" r="5" fill="#555555" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C 79.32%
+        C 79.31%
       </text>
     </g>
   
@@ -157,7 +157,7 @@
     <g transform="translate(0, 50)">
       <circle cx="5" cy="6" r="5" fill="#384d54" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Dockerfile 4.55%
+        Dockerfile 4.56%
       </text>
     </g>
   
