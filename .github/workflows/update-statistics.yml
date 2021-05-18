@@ -7,8 +7,9 @@ on:
     - cron: '0 15 * * *'
 permissions:
   contents: write
+concurrency: update-statistics
 jobs:
-  update-license:
+  update-statistics:
     name: Update Statistics
     runs-on: ubuntu-latest
     timeout-minutes: 5
