@@ -54,7 +54,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 61.40546355035522;
+        stroke-dashoffset: 61.25505713602574;
       }
     }
   
@@ -82,7 +82,7 @@
           
         </style>
 
-        undefined
+        
 
         <rect
           data-testid="card-bg"
@@ -188,7 +188,7 @@
         x="140" 
         y="12.5" 
         data-testid="contribs"
-      >30</text>
+      >31</text>
     </g>
   </g>
     </svg> 
