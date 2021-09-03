@@ -54,7 +54,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 71.15896496502448;
+        stroke-dashoffset: 71.13171587868798;
       }
     }
   
@@ -138,7 +138,7 @@
       <g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms" transform="translate(25, 0)">
       
-      <text class="stat bold"  y="12.5">Total Stars:</text>
+      <text class="stat bold"  y="12.5">Total stars received:</text>
       <text 
         class="stat" 
         x="140" 
