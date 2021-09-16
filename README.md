@@ -26,7 +26,7 @@ always trying to learn new things and take on new challenges.
 ![Visual Studio] ![XCode] ![Node.js] ![Docker] ![PostgreSQL] ![SQL] ![MySQL]
 ![Jenkins] ![GitHub Actions] ![CircleCI] ![Travis CI] ![Coveralls] ![Bower]
 ![CMake] ![Vulkan] ![OpenGL] ![Windows] ![Linux] ![Android] ![Unreal Engine]
-![Unity] ![PlayStation 3] ![Xbox 360] ![Wii] ![Genesis] ![Jekyll]
+![Unity] ![PlayStation 3] ![Xbox 360] ![Wii] ![Genesis] ![Jekyll] ![Postman]
 
 ## Statistics
 
@@ -88,6 +88,7 @@ always trying to learn new things and take on new challenges.
 [Bower]: https://img.shields.io/badge/-Bower-EF5734?logo=Bower&logoColor=white "Bower"
 [GitHub]: https://img.shields.io/badge/-GitHub-000000?logo=GitHub&logoColor=white "GitHub"
 [Jekyll]: https://img.shields.io/badge/-Jekyll-CC0000?logo=Jekyll&logoColor=white "Jekyll"
+[Postman]: https://img.shields.io/badge/-Postman-FF6C37?logo=Postman&logoColor=white "Postman"
 [LinkedIn]: https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white "LinkedIn"
 [YouTube]: https://img.shields.io/badge/-YouTube-FF0000?logo=YouTube&logoColor=white "YouTube"
 [Twitter]: https://img.shields.io/badge/-Twitter-1DA1F2?logo=Twitter&logoColor=white "Twitter"
