@@ -21,7 +21,7 @@ always trying to learn new things and take on new challenges.
 
 ## Technologies
 
-![.NET] ![AWS] ![Azure] ![Google Cloud] ![Serverless] ![Terraform] ![Lit] 
+![.NET] ![AWS] ![Azure] ![Google Cloud] ![Serverless] ![Terraform] ![Lit]
 ![Angular] ![Polymer] ![React] ![Git] ![Subversion] ![GitHub] ![Postman]
 ![Visual Studio Code] ![Visual Studio] ![XCode] ![Node.js] ![Docker]
 ![PostgreSQL] ![SQL] ![MySQL] ![Jenkins] ![GitHub Actions] ![CircleCI]
