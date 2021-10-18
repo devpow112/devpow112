@@ -11,6 +11,6 @@ jobs:
     container: ghcr.io/devpow112/markdownlint
     steps:
       - name: Checkout
-        uses: actions/checkout@v2.3.4
+        uses: actions/checkout@v2.3.5
       - name: Check formatting
         run: find . -type f -iname '*.md' -print0 | xargs -0 markdownlint
