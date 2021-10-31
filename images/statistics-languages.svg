@@ -82,7 +82,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="234.21"
+          width="211.64"
           height="8"
           fill="#555555"
         />
@@ -90,9 +90,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="234.21"
+          x="211.64"
           y="0"
-          width="27.08"
+          width="53.38"
           height="8"
           fill="#f1e05a"
         />
@@ -100,9 +100,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="261.29"
+          x="265.02"
           y="0"
-          width="18.15"
+          width="16.4"
           height="8"
           fill="#384d54"
         />
@@ -110,9 +110,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="279.44"
+          x="281.41999999999996"
           y="0"
-          width="12.28"
+          width="11.1"
           height="8"
           fill="#3572A5"
         />
@@ -120,9 +120,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="291.71999999999997"
+          x="292.52"
           y="0"
-          width="16.77"
+          width="16.12"
           height="8"
           fill="#012456"
         />
@@ -130,9 +130,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="298.48999999999995"
+          x="298.64"
           y="0"
-          width="11.51"
+          width="11.370000000000001"
           height="8"
           fill="#e34c26"
         />
@@ -143,42 +143,42 @@
     <g>
       <circle cx="5" cy="6" r="5" fill="#555555" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C 78.07%
+        C 70.55%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g>
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 9.03%
+        JavaScript 17.79%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g>
       <circle cx="5" cy="6" r="5" fill="#384d54" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Dockerfile 6.05%
+        Dockerfile 5.47%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g>
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 4.09%
+        Python 3.70%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g>
       <circle cx="5" cy="6" r="5" fill="#012456" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        PowerShell 2.26%
+        PowerShell 2.04%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g>
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 0.50%
+        HTML 0.46%
       </text>
     </g>
   </g></g>
