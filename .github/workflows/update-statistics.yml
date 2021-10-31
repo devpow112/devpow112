@@ -42,8 +42,7 @@ jobs:
           curl -sSfo images/statistics-languages.svg "$URL"
       - name: Check for changes
         id: changes
-        run: |
-          git diff --exit-code || echo '::set-output name=exist::true'
+        run: git diff --exit-code || echo '::set-output name=exist::true'
       - name: Push commit
         if: steps.changes.outputs.exist
         run: |
@@ -56,6 +55,6 @@ jobs:
           git remote set-url origin $URL
           git push origin main
         env:
-          GITHUB_TOKEN: ${{secrets.UPDATE_STATISTICS_TOKEN}}
+          GITHUB_TOKEN: ${{secrets.PERSONAL_GITHUB_TOKEN}}
           COMMIT_USERNAME: github-actions[bot]
           COMMIT_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
