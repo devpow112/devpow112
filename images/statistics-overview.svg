@@ -12,9 +12,17 @@
             fill: #58A6FF;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
+          @supports(-moz-appearance: auto) {
+            /* Selector detects Firefox */
+            .header { font-size: 15.5px; }
+          }
           
     .stat {
       font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #C3D1D9;
+    }
+    @supports(-moz-appearance: auto) {
+      /* Selector detects Firefox */
+      .stat { font-size:12px; }
     }
     .stagger {
       opacity: 0;
@@ -54,7 +62,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 83.10606871101896;
+        stroke-dashoffset: 85.52014246657231;
       }
     }
   
@@ -155,7 +163,7 @@
         x="155" 
         y="12.5" 
         data-testid="commits"
-      >5.1k</text>
+      >4.7k</text>
     </g>
   </g><g transform="translate(0, 40)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
