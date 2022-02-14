@@ -17,7 +17,7 @@ always trying to learn new things and take on new challenges.
 ## Languages
 
 ![C] ![C++] ![C#] ![JavaScript] ![TypeScript] ![HTML] ![CSS] ![Python] ![Java]
-![PHP] ![PowerShell] ![Bash] ![Batch] ![Puppet] ![Markdown]
+![PHP] ![PowerShell] ![Bash] ![Batch] ![Puppet] ![Markdown] ![Ruby]
 
 ## Technologies
 
@@ -91,6 +91,7 @@ always trying to learn new things and take on new challenges.
 [Jekyll]: https://img.shields.io/badge/-Jekyll-CC0000?logo=Jekyll&logoColor=white "Jekyll"
 [Postman]: https://img.shields.io/badge/-Postman-FF6C37?logo=Postman&logoColor=white "Postman"
 [Lit]: https://img.shields.io/badge/-Lit-324FFF?logo=Lit&logoColor=white "Lit"
+[Ruby]: https://img.shields.io/badge/-Ruby-CC342D?logo=Ruby&logoColor=white "Ruby"
 [LinkedIn]: https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white "LinkedIn"
 [YouTube]: https://img.shields.io/badge/-YouTube-FF0000?logo=YouTube&logoColor=white "YouTube"
 [Twitter]: https://img.shields.io/badge/-Twitter-1DA1F2?logo=Twitter&logoColor=white "Twitter"
