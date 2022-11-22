@@ -11,8 +11,8 @@ always trying to learn new things and take on new challenges.
 
 ## Current Projects
 
-[![WNFramework]](https://github.com/WNProject/WNFramework)
-[![Quantum Burst]](https://github.com/devpow112/quantum-burst)
+[![WNFramework][WNFramework]](https://github.com/WNProject/WNFramework)
+[![Quantum Burst][Quantum Burst]](https://github.com/devpow112/quantum-burst)
 
 ## Languages
 
