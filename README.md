@@ -8,11 +8,6 @@ other, for over 14 years now. I've worked on video games, anti-virus software
 and most recently educational software. I enjoy tinkering in my spare time,
 always trying to learn new things and take on new challenges.
 
-## Current Projects
-
-[![WNFramework][WNFramework]](https://github.com/WNProject/WNFramework)
-[![Quantum Burst][Quantum Burst]](https://github.com/devpow112/quantum-burst)
-
 ## Languages
 
 ![C] ![C++] ![C#] ![JavaScript] ![TypeScript] ![HTML] ![CSS] ![Python] ![Java]
@@ -91,6 +86,4 @@ always trying to learn new things and take on new challenges.
 [Postman]: https://img.shields.io/badge/-Postman-FF6C37?logo=Postman&logoColor=white "Postman"
 [Lit]: https://img.shields.io/badge/-Lit-324FFF?logo=Lit&logoColor=white "Lit"
 [Ruby]: https://img.shields.io/badge/-Ruby-CC342D?logo=Ruby&logoColor=white "Ruby"
-[WNFramework]: https://github-readme-stats.vercel.app/api/pin/?username=WNProject&repo=WNFramework&show_owner=true&theme=github_dark&icon_color=8B949E&hide_border=true
-[Quantum Burst]: https://github-readme-stats.vercel.app/api/pin/?username=devpow112&repo=quantum-burst&show_owner=true&theme=github_dark&icon_color=8B949E&hide_border=true
 [Statistics Languages]: https://github-readme-stats.vercel.app/api/top-langs?username=devpow112&hide_border=true&layout=compact&langs_count=6&theme=github_dark
