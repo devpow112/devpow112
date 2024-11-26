@@ -21,7 +21,7 @@ always trying to learn new things and take on new challenges.
 ![PostgreSQL] ![SQL] ![MySQL] ![Jenkins] ![GitHub Actions] ![CircleCI]
 ![Travis CI] ![Coveralls] ![Bower] ![CMake] ![Vulkan] ![OpenGL] ![Windows]
 ![Linux] ![Android] ![Unreal Engine] ![Unity] ![PlayStation 3] ![Xbox 360]
-![Wii] ![Genesis] ![Jekyll]
+![Wii] ![Genesis] ![Jekyll] ![Nunjucks] ![Eleventy]
 
 ## Statistics
 
@@ -86,4 +86,6 @@ always trying to learn new things and take on new challenges.
 [Postman]: https://img.shields.io/badge/-Postman-FF6C37?logo=Postman&logoColor=white "Postman"
 [Lit]: https://img.shields.io/badge/-Lit-324FFF?logo=Lit&logoColor=white "Lit"
 [Ruby]: https://img.shields.io/badge/-Ruby-CC342D?logo=Ruby&logoColor=white "Ruby"
+[Nunjucks]: https://img.shields.io/badge/-Nunjucks-1C4913?logo=Nunjucks&logoColor=white "Nunjucks"
+[Eleventy]: https://img.shields.io/badge/-Eleventy-222222?logo=Eleventy&logoColor=white "Eleventy"
 [Statistics Languages]: https://github-readme-stats.vercel.app/api/top-langs?username=devpow112&hide_border=true&layout=compact&langs_count=6&theme=github_dark
