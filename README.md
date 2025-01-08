@@ -18,7 +18,7 @@ always trying to learn new things and take on new challenges.
 ![.NET] ![AWS] ![Azure] ![Google Cloud] ![Serverless] ![Terraform] ![Lit]
 ![Angular] ![Polymer] ![React] ![Git] ![Subversion] ![GitHub] ![Postman]
 ![Visual Studio Code] ![Visual Studio] ![XCode] ![Node.js] ![Docker]
-![PostgreSQL] ![SQL] ![MySQL] ![Jenkins] ![GitHub Actions] ![CircleCI]
+![PostgreSQL] ![MSSQL] ![MySQL] ![Jenkins] ![GitHub Actions] ![CircleCI]
 ![Travis CI] ![Coveralls] ![Bower] ![CMake] ![Vulkan] ![OpenGL] ![Windows]
 ![Linux] ![Android] ![Unreal Engine] ![Unity] ![PlayStation 3] ![Xbox 360]
 ![Wii] ![Genesis] ![Jekyll] ![Nunjucks] ![Eleventy]
@@ -43,7 +43,7 @@ always trying to learn new things and take on new challenges.
 [Bash]: https://img.shields.io/badge/-Bash-4EAA25?logo=GNU-Bash&logoColor=white "Bash"
 [Markdown]: https://img.shields.io/badge/-Markdown-000000?logo=Markdown&logoColor=white "Markdown"
 [.NET]: https://img.shields.io/badge/-.NET-512BD4?logo=.NET&logoColor=white ".NET"
-[AWS]: https://img.shields.io/badge/-AWS-232F3E?logo=Amazon-AWS&logoColor=white "AWS"
+[AWS]: https://img.shields.io/badge/-AWS-232F3E?logo=amazonwebservices&logoColor=white "AWS"
 [Azure]: https://img.shields.io/badge/-Azure-0089D6?logo=Microsoft-Azure&logoColor=white "Azure"
 [Google Cloud]: https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=Google-Cloud&logoColor=white "Google Cloud"
 [Terraform]: https://img.shields.io/badge/-Terraform-623CE4?logo=Terraform&logoColor=white "Terraform"
@@ -54,7 +54,7 @@ always trying to learn new things and take on new challenges.
 [XCode]: https://img.shields.io/badge/-XCode-147EFB?logo=XCode&logoColor=white "XCode"
 [CMake]: https://img.shields.io/badge/-CMake-064F8C?logo=CMake&logoColor=white "CMake"
 [Docker]: https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white "Docker"
-[SQL]: https://img.shields.io/badge/-SQL-CC2927?logo=Microsoft-SQL-Server&logoColor=white "SQL"
+[MSSQL]: https://img.shields.io/badge/-MSSQL-CC2927?logo=Microsoft-SQL-Server&logoColor=white "MSSQL"
 [MySQL]: https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white "MySQL"
 [PostgreSQL]: https://img.shields.io/badge/-PostgreSQL-336791?logo=PostgreSQL&logoColor=white "PostgreSQL"
 [Angular]: https://img.shields.io/badge/-Angular-E23237?logo=Angular&logoColor=white "Angular"
