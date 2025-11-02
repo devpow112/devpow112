@@ -38,7 +38,7 @@ always trying to learn new things and take on new challenges.
 [Java]: https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white "Java"
 [PHP]: https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=white "PHP"
 [HTML]: https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white "HTML"
-[CSS]: https://img.shields.io/badge/-CSS-1572B6?logo=CSS&logoColor=white "CSS"
+[CSS]: https://img.shields.io/badge/-CSS-663399?logo=CSS&logoColor=white "CSS"
 [PowerShell]: https://img.shields.io/badge/-PowerShell-5391FE?logo=PowerShell&logoColor=white "PowerShell"
 [Bash]: https://img.shields.io/badge/-Bash-4EAA25?logo=GNU-Bash&logoColor=white "Bash"
 [Markdown]: https://img.shields.io/badge/-Markdown-000000?logo=Markdown&logoColor=white "Markdown"
