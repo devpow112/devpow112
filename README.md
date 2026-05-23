@@ -23,10 +23,6 @@ always trying to learn new things and take on new challenges.
 ![Linux] ![Android] ![Unreal Engine] ![Unity] ![PlayStation 3] ![Xbox 360]
 ![Wii] ![Genesis] ![Jekyll] ![Nunjucks] ![Eleventy]
 
-## Statistics
-
-![Statistics Languages]
-
 <!-- external links -->
 [Profile Views]: https://komarev.com/ghpvc/?username=devpow112&label=Profile%20Views "Profile Views"
 [C]: https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white "C"
@@ -88,4 +84,3 @@ always trying to learn new things and take on new challenges.
 [Ruby]: https://img.shields.io/badge/-Ruby-CC342D?logo=Ruby&logoColor=white "Ruby"
 [Nunjucks]: https://img.shields.io/badge/-Nunjucks-1C4913?logo=Nunjucks&logoColor=white "Nunjucks"
 [Eleventy]: https://img.shields.io/badge/-Eleventy-222222?logo=Eleventy&logoColor=white "Eleventy"
-[Statistics Languages]: https://github-readme-stats.vercel.app/api/top-langs?username=devpow112&hide_border=true&layout=compact&langs_count=6&theme=github_dark
